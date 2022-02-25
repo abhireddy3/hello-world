@@ -17,7 +17,7 @@
     <br>
 
 
-<label for="confm-email"><b>Cofirm Email</b></label>
+<label for="confm-email"><b>Confirm Email</b></label>
     <input type="text" placeholder="Confirm Email" name="confm-email" id="confm-email" required>
     <br>
 
